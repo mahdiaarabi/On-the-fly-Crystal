@@ -17,7 +17,6 @@
 !
 !3. The output file will contain cordinates and energies: "outputLattices.txt"
 !
-!
 !Comments: 
 !For now, the change in energy is used to determine if Gaussian calculations have completed. 
 !Please make sure every symmetric cordinate q is set as symmetric(q)=1 inside the code. 
