@@ -143,4 +143,3 @@ If you use this code in your research, please cite:
   doi={10.1002/jcc.27285}
 }
 ```
-
