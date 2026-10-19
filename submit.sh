@@ -23,4 +23,3 @@ for i in {1..30000}
     g16 gin.gjf
     sleep 10
   done
-
